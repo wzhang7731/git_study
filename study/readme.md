@@ -1,3 +1,3 @@
-git 
+git
 
-checkout
+conf1
