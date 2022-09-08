@@ -1,3 +1,3 @@
 git
 
-conf1
+conf
