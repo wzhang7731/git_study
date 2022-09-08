@@ -1,3 +1,1 @@
-git 
-
-checkout
+git noffmerge
